@@ -43,14 +43,15 @@ article {
 	background-image: url("paper.gif");
 }
 img {
-	list-style-type: none;
 	width: 50%;
 	height: 50%;
 	outline-style: double;
 	outline-width: thick;
 	outline-color: black;
 	margin: auto;
-
+}
+ul {
+	list-style-type: none;
 }
 
 section {
