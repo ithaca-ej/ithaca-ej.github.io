@@ -1,0 +1,72 @@
+html {
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+ line-height: 1.6;
+
+}
+
+body {
+background-image: url("writing.gif");
+color: black;
+  
+}
+
+
+header {
+	outline-style: double;
+	outline-width: thick;
+	outline-color: black;
+	background-color: white;
+	text-align: center;
+	width: fit-content;
+	margin:	auto;
+	background-image: url("paper.gif");
+}
+
+nav {
+	outline-style: double;
+	outline-width: thick;
+	outline-color: black;
+	background-color: white;
+	text-align: center;
+	width: fit-content;
+	margin:	auto;
+	background-image: url("paper.gif");
+}
+
+article {
+	outline-style: double;
+	outline-width: thick;
+	outline-color: black;
+	margin: auto;
+	background-color: white;
+	background-image: url("paper.gif");
+	text-align: center;
+}
+
+section {
+	outline-style: double;
+	outline-width: thick;
+	outline-color: black;
+	margin: auto;
+	background-color: white;
+	float: center;
+	background-image: url("paper.gif");
+}
+
+
+footer {
+	text-align: center;
+	
+}
+
+footer p {
+	outline: thick black groove;
+	width: fit-content;
+	margin:	auto;
+	background-color: black;
+}
+
+footer img {
+	margin: 20px;
+}

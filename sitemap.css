@@ -1,0 +1,30 @@
+body {
+	background-image: url("world.gif");
+
+}
+
+article {
+	outline-style: double;
+	outline-width: thick;
+	outline-color: black;
+	background-color: white;
+	margin: auto;
+	line-height: 1.6;
+	width: fit-content;
+}
+
+
+footer {
+	text-align: center;
+}
+
+footer p {
+	outline: thick black groove;
+	width: fit-content;
+	margin:	auto;
+	background-color: black;
+}
+
+footer img {
+	margin: 20px;
+}
