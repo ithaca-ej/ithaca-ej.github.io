@@ -6,7 +6,7 @@ html {
 }
 
 body {
-background-image: url("red027.jpg");
+background-image: url("pictures/red027.jpg");
 color: black;
   
 }
@@ -20,7 +20,7 @@ header {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("paper.gif");
+	background-image: url("pictures/paper.gif");
 
 }
 
@@ -32,7 +32,7 @@ nav {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("paper.gif");
+	background-image: url("pictures/paper.gif");
 }
 
 article {
@@ -41,7 +41,7 @@ article {
 	outline-color: white;
 	margin: auto;
 	background-color: white;
-  background-image: url("paper.gif");
+  background-image: url("pictures/paper.gif");
 }
 
 article p {
