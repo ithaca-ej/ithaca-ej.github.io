@@ -35,16 +35,11 @@ nav {
 }
 
 article {
-	outline-style: double;
-	outline-width: thick;
-	outline-color: black;
+	text-align: center;
 	margin: auto;
-	background-color: white;
-	background-image: url("paper.gif");
+	
 }
 img {
-	width: 50%;
-	height: 50%;
 	outline-style: double;
 	outline-width: thick;
 	outline-color: black;
@@ -53,12 +48,6 @@ img {
 ul {
 	list-style-type: none;
 }
-
-section {
-	text-align: center;
-	object-fit: contain;
-}
-
 
 footer {
 	text-align: center;
