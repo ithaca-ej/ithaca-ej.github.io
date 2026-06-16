@@ -5,7 +5,7 @@ html {
 }
 
 body {
-background-image: url("pictures/fidgetspinner.gif");
+background-image: url("Pictures/fidgetspinner.gif");
 color: black;
   
 }
@@ -19,7 +19,7 @@ header {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
 }
 
 nav {
@@ -30,7 +30,7 @@ nav {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
 }
 
 article {
@@ -40,7 +40,7 @@ article {
 	margin: auto;
 	background-color: white;
 	width: fit-content;
-  background-image: url("pictures/paper.gif");
+  background-image: url("Pictures/paper.gif");
 }
 
 article a {

@@ -6,7 +6,7 @@ line-height: 1.6;
 }
 
 body {
-background-image: url("pictures/rotatingcamera.gif");
+background-image: url("Pictures/rotatingcamera.gif");
 color: black;
 margin: auto;
 }
@@ -19,7 +19,7 @@ header {
 	width: fit-content;
 	text-align: center;
 	margin:	auto;
-	background-image: url("pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
 }
 
 nav {
@@ -30,7 +30,7 @@ nav {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
 }
 
 h3 {
@@ -42,7 +42,7 @@ article {
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
-	background-image: url("pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
 	margin: auto;
 	line-height: 1.6;
 	width: fit-content;

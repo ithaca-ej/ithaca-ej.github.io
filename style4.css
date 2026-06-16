@@ -5,7 +5,7 @@ html {
 }
 
 body {
-background-image: url("pictures/writing.gif");
+background-image: url("Pictures/writing.gif");
 color: black;
   
 }
@@ -19,7 +19,7 @@ header {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
 }
 
 nav {
@@ -30,7 +30,7 @@ nav {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
 }
 
 article {
@@ -39,7 +39,7 @@ article {
 	outline-color: black;
 	margin: auto;
 	background-color: white;
-  background-image: url("pictures/paper.gif");
+  background-image: url("Pictures/paper.gif");
 }
 
 footer {
