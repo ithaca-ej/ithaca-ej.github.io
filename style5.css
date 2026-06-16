@@ -6,7 +6,7 @@ html {
 }
 
 body {
-background-image: url("natfl108.gif");
+background-image: url("pictures/natfl108.gif");
 color: black;
   
 }
@@ -20,7 +20,7 @@ header {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("paper.gif");
+	background-image: url("pictures/paper.gif");
 }
 
 nav {
@@ -31,7 +31,7 @@ nav {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("paper.gif");
+	background-image: url("pictures/paper.gif");
 }
 
 article {
@@ -40,7 +40,7 @@ article {
 	outline-color: black;
 	margin: auto;
 	background-color: white;
-	background-image: url("paper.gif");
+	background-image: url("pictures/paper.gif");
 }
 
 section {
@@ -50,7 +50,7 @@ section {
 	margin: auto;
 	background-color: white;
 	float: center;
-	background-image: url("paper.gif");
+	background-image: url("pictures/paper.gif");
 }
 
 
