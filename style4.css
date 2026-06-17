@@ -39,7 +39,7 @@ article {
 	outline-color: black;
 	margin: auto;
 	background-color: white;
-  background-image: url("Pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
 }
 
 footer {
@@ -53,6 +53,3 @@ footer p {
 	background-color: black;
 }
 
-footer img {
-	margin: 20px;
-}

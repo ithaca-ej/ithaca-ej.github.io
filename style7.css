@@ -45,6 +45,17 @@ nav {
 	background-image: url("paper.gif");
 }
 
+div {
+	outline-style: double;
+	outline-width: thick;
+	outline-color: black;
+	margin: auto;
+	width: fit-content;
+	background-color: white;
+	background-image: url("Pictures/paper.gif");
+	text-align: center;
+}
+
 article {
 	text-align: center;
 	margin: auto;
@@ -61,11 +72,12 @@ article p {
 	background-image: url("Pictures/paper.gif");
 }
 img {
+	
 	outline-style: double;
 	outline-width: thick;
 	outline-color: black;
 	margin: 10px;
-	max-width: 30%;
+	max-width: 50%;
 	height: auto;
 }
 ul {
@@ -84,6 +96,3 @@ footer p {
 	background-color: black;
 }
 
-footer img {
-	margin: 20px;
-}

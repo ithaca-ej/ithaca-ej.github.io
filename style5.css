@@ -43,7 +43,7 @@ article {
 	background-image: url("Pictures/paper.gif");
 }
 
-section {
+div {
 	outline-style: double;
 	outline-width: thick;
 	outline-color: black;
@@ -66,6 +66,3 @@ footer p {
 	background-color: black;
 }
 
-footer img {
-	margin: 20px;
-}
