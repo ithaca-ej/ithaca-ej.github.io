@@ -64,6 +64,25 @@ footer p {
 	outline: thick black groove;
 	width: fit-content;
 	margin:	auto;
-	background-color: black;
+	background-color: yellow;
 }
 
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
