@@ -40,14 +40,11 @@ article {
 	margin: auto;
 	background-color: white;
 	width: fit-content;
-  background-image: url("Pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
+	list-style-type: none;
+
 }
 
-article a {
-	font-family: Times New Roman, serif;
-	color: black;
-	margin: auto;
-}
 
 article b {
 	line-height: 1.8
