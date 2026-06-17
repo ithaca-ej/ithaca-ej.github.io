@@ -7,6 +7,7 @@ html {
 body {
 background-image: url("Pictures/Rothko.jpg");
 color: black;
+list-style-type: none;
   
 }
 
@@ -41,7 +42,6 @@ article {
 	background-color: white;
 	width: fit-content;
 	background-image: url("Pictures/paper.gif");
-	list-style-type: none;
 
 }
 
