@@ -53,7 +53,7 @@ footer {
 }
 
 footer p {
-	outline: thick black groove;
+	outline: thick yellow groove;
 	width: fit-content;
 	margin:	auto;
 	background-color: yellow;
