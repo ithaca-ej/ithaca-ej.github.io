@@ -1,14 +1,13 @@
 html {
   font-size: large;
   font-family: Arial, Helvetica, sans-serif;
- line-height: 1.6;
-
+  line-height: 1.6;
 }
 
 body {
 background-image: url("Pictures/red027.jpg");
 color: black;
-  
+
 }
 
 
@@ -17,17 +16,16 @@ header {
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
-	text-align: center;
 	width: fit-content;
+	text-align: center;
 	margin:	auto;
 	background-image: url("Pictures/paper.gif");
-	
 }
 
 nav {
 	outline-style: double;
 	outline-width: thick;
-	outline-color: white;
+	outline-color: black;
 	background-color: white;
 	text-align: center;
 	width: fit-content;
@@ -40,14 +38,8 @@ article {
 	outline-width: thick;
 	outline-color: black;
 	margin: auto;
-	width: fit-content;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
-	text-align: center;
-}
-
-article p {
-	text-align: center;
 }
 
 footer {
@@ -60,6 +52,7 @@ footer p {
 	margin:	auto;
 	background-color: yellow;
 }
+
 
 /* unvisited link */
 a:link {
