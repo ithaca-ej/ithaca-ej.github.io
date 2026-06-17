@@ -15,13 +15,13 @@ color: black;
 header {
 	outline-style: double;
 	outline-width: thick;
-	outline-color: white;
+	outline-color: black;
 	background-color: white;
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
 	background-image: url("Pictures/paper.gif");
-
+	
 }
 
 nav {
@@ -38,10 +38,12 @@ nav {
 article {
 	outline-style: double;
 	outline-width: thick;
-	outline-color: white;
+	outline-color: black;
 	margin: auto;
+	width: fit-content;
 	background-color: white;
-  background-image: url("Pictures/paper.gif");
+	background-image: url("Pictures/paper.gif");
+	text-align: center;
 }
 
 article p {

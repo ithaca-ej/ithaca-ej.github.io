@@ -1,7 +1,7 @@
 html {
   font-size: large;
   font-family: Arial, Helvetica, sans-serif;
- line-height: 1.6;
+  line-height: 1.6;
 
 }
 
@@ -20,7 +20,7 @@ header {
 	text-align: center;
 	width: fit-content;
 	margin:	auto;
-	background-image: url("paper.gif");
+	background-image: url("Pictures/paper.gif");
 }
 
 nav {
@@ -35,20 +35,14 @@ nav {
 }
 
 article {
-	text-align: center;
+	text-align: left;
 	margin: auto;
-	
-}
-img {
 	outline-style: double;
 	outline-width: thick;
 	outline-color: black;
 	margin: auto;
-	max-width: 100%;
-	height: auto;
-}
-ul {
-	list-style-type: none;
+	background-color: white;
+	background-image: url("Pictures/paper.gif");
 }
 
 footer {
