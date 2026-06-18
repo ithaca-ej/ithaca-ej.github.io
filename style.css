@@ -33,6 +33,12 @@ nav {
 	background-image: url("Pictures/paper.gif");
 }
 
+figcaption {
+display: inline-block;
+max-width: 50%;
+max-height: 50%;
+}
+
 article {
 	outline-style: double;
 	outline-width: thick;
