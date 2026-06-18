@@ -15,7 +15,7 @@ color: black;
 header {
 	outline-style: double;
 	outline-width: thick;
-	outline-color: black;
+	outline-color: white;
 	background-color: white;
 	text-align: center;
 	width: fit-content;
@@ -37,7 +37,7 @@ h2 {
 nav {
 	outline-style: double;
 	outline-width: thick;
-	outline-color: black;
+	outline-color: white;
 	background-color: white;
 	text-align: center;
 	width: fit-content;
@@ -48,7 +48,7 @@ nav {
 div {
 	outline-style: double;
 	outline-width: thick;
-	outline-color: black;
+	outline-color: white;
 	margin: auto;
 	width: 90%;
 	background-color: white;
@@ -76,7 +76,7 @@ img {
 	
 	outline-style: double;
 	outline-width: thick;
-	outline-color: black;
+	outline-color: white;
 	margin: 10px;
 	max-width: 90%;
 	height: auto;
