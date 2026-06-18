@@ -42,6 +42,13 @@ article {
 	background-image: url("Pictures/paper.gif");
 }
 
+
+img {
+	max-width: 25%;
+	max-height: 25;
+	margin: auto;
+}
+
 footer {
 	text-align: center;
 }
