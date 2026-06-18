@@ -38,11 +38,11 @@ article {
 	outline-style: double;
 	outline-width: thick;
 	outline-color: black;
-	margin: auto;
 	background-color: white;
-	width: fit-content;
 	background-image: url("Pictures/paper.gif");
-
+	margin: auto;
+	line-height: 1.6;
+	width: 50%;
 }
 
 

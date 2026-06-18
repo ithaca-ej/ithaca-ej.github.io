@@ -38,18 +38,19 @@ article {
 	outline-style: double;
 	outline-width: thick;
 	outline-color: black;
-	margin: auto;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
+	margin: auto;
+	line-height: 1.6;
+	width: 50%;
 }
-
 div {
 	outline-style: double;
 	outline-width: thick;
 	outline-color: black;
 	margin: auto;
 	background-color: white;
-	float: center;
+	width: 50%;
 	background-image: url("Pictures/paper.gif");
 }
 

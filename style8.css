@@ -37,11 +37,12 @@ article {
 	outline-style: double;
 	outline-width: thick;
 	outline-color: black;
-	margin: auto;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
-}	
-
+	margin: auto;
+	line-height: 1.6;
+	width: 50%;
+}
 footer {
 	text-align: center;
 }

@@ -15,7 +15,7 @@ header {
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
-	width: fit-content;
+	width: 25%;
 	text-align: center;
 	margin:	auto;
 	background-image: url("Pictures/paper.gif");
@@ -44,7 +44,7 @@ article {
 	background-image: url("Pictures/paper.gif");
 	margin: auto;
 	line-height: 1.6;
-	width: fit-content;
+	width: 50%;
 }
 
 footer {
