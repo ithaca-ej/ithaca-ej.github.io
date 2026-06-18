@@ -35,8 +35,9 @@ nav {
 
 figure {
 display: inline-block;
-max-width: 50%;
-max-height: 50%;
+width: 15%;
+height: 15%;
+margin: auto;
 }
 
 article {
