@@ -20,7 +20,7 @@ article {
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
-	margin: auto;
+	margin: 50%;
 	line-height: 1.6;
 	width: fit-content;
 }
