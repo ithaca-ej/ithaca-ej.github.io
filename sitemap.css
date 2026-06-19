@@ -22,7 +22,7 @@ article {
 	background-color: white;
 	margin: auto;
 	line-height: 1.6;
-	width: 90%;
+	width: fit-content;
 }
 
 footer {
