@@ -5,6 +5,11 @@ html {
 
 }
 
+body {
+	background-image: url("Pictures/world.gif");
+	
+}
+
 ul {
 
 margin: auto;
