@@ -51,13 +51,13 @@ div {
 }
 
 img {
-	outline-style: double;
+	outline-style: solid;
 	outline-width: thick;
 	outline-color: white;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
 	margin: auto;
-	width: 70%;
+	width: 75%;
 	
 }
 
