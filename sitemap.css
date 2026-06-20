@@ -16,7 +16,7 @@ margin: auto;
 }
 
 article {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;

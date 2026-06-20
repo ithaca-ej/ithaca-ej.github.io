@@ -6,14 +6,14 @@ html {
 }
 
 body {
-background-image: url("Pictures/misc246.jpg");
+background-image: url("Pictures/bc440064.jpg");
 color: black;
   
 }
 
 
 header {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
@@ -24,7 +24,7 @@ header {
 }
 
 nav {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
@@ -35,7 +35,7 @@ nav {
 }
 
 article {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
@@ -47,7 +47,7 @@ article {
 }
 
 section {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
 	margin: auto;

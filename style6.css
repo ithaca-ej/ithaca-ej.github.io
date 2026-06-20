@@ -6,16 +6,16 @@ html {
 }
 
 body {
-background-image: url("Pictures/ss077.jpg");
+background-image: url("Pictures/SC042.jpg");
 color: black;
 
 }
 
 
 header {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
-	outline-color: white;
+	outline-color: black;
 	background-color: white;
 	text-align: center;
 	width: fit-content;
@@ -24,9 +24,9 @@ header {
 }
 
 nav {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
-	outline-color: white;
+	outline-color: black;
 	background-color: white;
 	text-align: center;
 	width: fit-content;
@@ -35,14 +35,14 @@ nav {
 }
 
 article {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
-	outline-color: white;
+	outline-color: black;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
 	margin: auto;
 	line-height: 1.6;
-	width: 90%;
+	width: 90%;;
 	text-align: left;
 }
 

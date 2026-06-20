@@ -12,7 +12,7 @@ color: black;
 
 
 header {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
@@ -23,7 +23,7 @@ header {
 }
 
 nav {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
@@ -34,7 +34,7 @@ nav {
 }
 
 article {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
