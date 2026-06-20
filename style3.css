@@ -12,6 +12,7 @@ list-style-type: none;
 }
 
 
+
 header {
 	outline-style: groove;
 	outline-width: thick;
@@ -56,8 +57,22 @@ img {
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
 	margin: auto;
-	width: auto%;
+	width: auto;
 	
+}
+
+/* For width 400px and larger: */
+@media only screen and (min-width: 480px) {
+  div {
+    background-image: url('Picures/selfportrait.jpg');
+  }
+}
+
+/* For width 400px and larger: */
+@media only screen and (min-width: 1024px) {
+  div {
+    background-image: url('Picures/selfportrait.jpg');
+  }
 }
 
 article b {
