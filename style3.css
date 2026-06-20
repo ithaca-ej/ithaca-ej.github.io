@@ -13,9 +13,9 @@ list-style-type: none;
 
 
 header {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
-	outline-color: black;
+	outline-color: white;
 	background-color: white;
 	text-align: center;
 	width: fit-content;
@@ -24,9 +24,9 @@ header {
 }
 
 nav {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
-	outline-color: black;
+	outline-color: white;
 	background-color: white;
 	text-align: center;
 	width: fit-content;
@@ -35,9 +35,9 @@ nav {
 }
 
 article {
-	outline-style: double;
+	outline-style: groove;
 	outline-width: thick;
-	outline-color: black;
+	outline-color: white;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
 	margin: auto;
@@ -51,8 +51,7 @@ div {
 }
 
 img {
-	outline-style: solid;
-	outline-width: thick;
+	outline-style: groove;
 	outline-color: white;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
