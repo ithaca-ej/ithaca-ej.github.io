@@ -41,20 +41,23 @@ article {
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
 	margin: auto;
-	line-height: 1.6;
 	width: 90%;
 }
+
 div {
 	text-align: center;
+
 }
+
 img {
-	width: 50%;
 	outline-style: double;
 	outline-width: thick;
 	outline-color: white;
-	margin: 25px;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
+	margin: auto;
+	width: auto;
+	
 }
 
 article b {
