@@ -61,13 +61,6 @@ img {
 	
 }
 
-/* For width 400px and larger: */
-@media only screen and (min-width: 480px) {
-  div {
-    background-image: url('Picures/selfportrait.jpg');
-  }
-}
-
 
 article b {
 	line-height: 1.8
