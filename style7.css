@@ -78,7 +78,7 @@ img {
 	outline-width: thick;
 	outline-color: black;
 	margin: 10px;
-	max-width: 90%;
+	width: 25%;
 	height: auto;
 }
 ul {
