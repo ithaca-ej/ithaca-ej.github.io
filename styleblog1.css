@@ -1,0 +1,91 @@
+html {
+  font-size: large;
+  font-family: Helvetica, sans-serif;
+  line-height: 1.6;
+}
+
+body {
+background-image: url("Pictures/pattern83.jpg");
+color: black;
+
+}
+
+
+header {
+	outline-style: groove;
+	outline-width: thick;
+	outline-color: black;
+	background-color: white;
+	width: fit-content;
+	text-align: center;
+	margin:	auto;
+	background-image: url("Pictures/paper.gif");
+}
+
+nav {
+	outline-style: groove;
+	outline-width: thick;
+	outline-color: black;
+	background-color: white;
+	text-align: center;
+	width: fit-content;
+	margin:	auto;
+	background-image: url("Pictures/paper.gif");
+}
+
+figure {
+display: inline-block;
+margin: auto;
+}
+
+article {
+	outline-style: groove;
+	outline-width: thick;
+	outline-color: black;
+	margin: auto;
+	background-color: white;
+	background-image: url("Pictures/paper.gif");
+	width: 90%;
+}
+
+h2 {
+	text-align: center;
+}
+
+img {
+	max-width: 75%;
+	max-height: 75%;
+	margin: auto;
+}
+
+footer {
+	text-align: center;
+}
+
+footer p {
+	outline: thick yellow groove;
+	width: fit-content;
+	margin:	auto;
+	background-color: yellow;
+}
+
+
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
