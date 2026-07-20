@@ -45,7 +45,7 @@ nav {
 	background-image: url("paper.gif");
 }
 
-div {
+.description {
 	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
@@ -62,11 +62,10 @@ article {
 	
 }
 
-aside {
+.guestbook {
 	outline: thick DodgerBlue groove;
 	width: fit-content;
 	margin:	auto;
-	float: right;
 	background-color: DodgerBlue;
 }
 

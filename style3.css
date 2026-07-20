@@ -70,11 +70,10 @@ article u {
 text-align: center;
 }
 
-aside {
+.guestbook {
 	outline: thick DodgerBlue groove;
 	width: fit-content;
 	margin:	auto;
-	float: right;
 	background-color: DodgerBlue;
 }
 
