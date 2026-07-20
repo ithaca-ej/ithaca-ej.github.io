@@ -43,14 +43,14 @@ nav {
 	margin: auto;
 	line-height: 1.6;
 	text-align: center;
-	width: 100%;
-	overflow: scroll;
 }
 pre {
 	background-image: url("Pictures/paper.gif");
 	font-family: Garamond, serif;
 	font-size: large;
 	line-height: 1.6;
+	width: 100%;
+	white-space: pre-wrap;
 }
 .guestbook {
 	outline: thick DodgerBlue groove;
