@@ -51,6 +51,10 @@ nav {
 	margin: 20px;
 }
 
+ul {
+	list-style-type: none;
+}
+
 img {
 	outline-style: groove;
 	outline-color: white;
