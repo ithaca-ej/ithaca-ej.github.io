@@ -50,7 +50,7 @@ pre {
 	font-size: large;
 	line-height: 1.6;
 	width: 100%;
-	overflow: auto;
+	overflow: scroll;
 }
 .guestbook {
 	outline: thick DodgerBlue groove;
