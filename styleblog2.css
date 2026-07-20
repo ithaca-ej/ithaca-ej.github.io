@@ -48,6 +48,14 @@ article {
 	width: 90%;
 }
 
+aside {
+	outline: thick DodgerBlue groove;
+	width: fit-content;
+	margin:	auto;
+	float: right;
+	background-color: DodgerBlue;
+}
+
 h2 {
 	text-align: center;
 }

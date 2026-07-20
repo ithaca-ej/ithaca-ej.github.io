@@ -43,6 +43,15 @@ article {
 	line-height: 1.6;
 	width: 90%;
 }
+
+aside {
+	outline: thick DodgerBlue groove;
+	width: fit-content;
+	margin:	auto;
+	float: right;
+	background-color: DodgerBlue;
+}
+
 footer {
 	text-align: center;
 }
@@ -77,3 +86,4 @@ a:hover {
 a:active {
   color: blue;
 }
+

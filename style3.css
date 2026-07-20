@@ -70,6 +70,15 @@ article u {
 text-align: center;
 }
 
+aside {
+	outline: thick DodgerBlue groove;
+	width: fit-content;
+	margin:	auto;
+	float: right;
+	background-color: DodgerBlue;
+}
+
+
 footer {
 	text-align: center;
 }

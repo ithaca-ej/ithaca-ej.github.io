@@ -49,6 +49,14 @@ article {
 
 }	
 
+aside {
+	outline: thick DodgerBlue groove;
+	width: fit-content;
+	margin:	auto;
+	float: right;
+	background-color: DodgerBlue;
+}
+
 video {
 	max-width: 100%;
 	max-height: 100%;
