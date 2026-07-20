@@ -35,7 +35,7 @@ nav {
 	background-image: url("Pictures/paper.gif");
 }
 
-article {
+.container {
 	outline-style: groove;
 	outline-width: thick;
 	outline-color: white;
@@ -46,7 +46,7 @@ article {
 	line-height: 1.6;
 }
 
-div {
+.pictures {
 	text-align: center;
 	margin: 20px;
 }
@@ -62,11 +62,11 @@ img {
 }
 
 
-article b {
+.container b {
 	line-height: 1.8
 }
 
-article u {
+.container u {
 text-align: center;
 }
 
