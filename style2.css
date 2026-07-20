@@ -50,6 +50,8 @@ pre {
 	font-family: Garamond, serif;
 	font-size: large;
 	line-height: 1.6;
+	width: 100%;
+	overflow: auto;
 }
 .guestbook {
 	outline: thick DodgerBlue groove;
