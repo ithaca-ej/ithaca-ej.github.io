@@ -15,7 +15,7 @@ ul {
 margin: auto;
 }
 
-article {
+.container {
 	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
