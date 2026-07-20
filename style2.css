@@ -1,6 +1,6 @@
 html {
 	font-size: large;
-	font-family: Helvetica, sans-serif;
+	font-family: Garamond, serif;
 	line-height: 1.6;
 
 }
@@ -45,7 +45,12 @@ nav {
 	width: 90%;
 	text-align: center;
 }
-
+pre {
+	background-image: url("Pictures/paper.gif");
+	font-family: Garamond, serif;
+	font-size: large;
+	line-height: 1.6;
+}
 .guestbook {
 	outline: thick DodgerBlue groove;
 	width: fit-content;
