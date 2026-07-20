@@ -56,7 +56,7 @@ nav {
 	text-align: center;
 }
 
-article {
+div {
 	text-align: center;
 	margin: auto;
 	
@@ -69,7 +69,7 @@ article {
 	background-color: DodgerBlue;
 }
 
-article p {
+.container {
 	text-align: left;
 	outline-style: groove;
 	outline-width: thick;

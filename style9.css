@@ -33,7 +33,7 @@ nav {
 	background-image: url("Pictures/paper.gif");
 }
 
-.description {
+.container {
 	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
@@ -44,7 +44,7 @@ nav {
 	text-align: left;
 }
 
-article {
+.video {
 	text-align: center;
 
 }	

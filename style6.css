@@ -34,7 +34,7 @@ nav {
 	background-image: url("Pictures/paper.gif");
 }
 
-article {
+.container {
 	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
@@ -42,7 +42,7 @@ article {
 	background-image: url("Pictures/paper.gif");
 	margin: auto;
 	line-height: 1.6;
-	width: 90%;;
+	width: 90%;
 	text-align: left;
 }
 
