@@ -17,10 +17,11 @@ header {
 	padding: 2em;
 }
 
-#pictures {
+pictures {
 	transform: rotateX(360deg);
 	transform: rotateY(360deg);
 	transform: rotateX(360deg);
+	
 }
 nav {
 	outline-style: groove;
@@ -46,7 +47,6 @@ article {
 	margin: auto;
 	line-height: 1.6;
 	width: 90%;
-	padding: 2em;
 	overflow: scroll;
 }
 
