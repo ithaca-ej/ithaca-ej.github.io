@@ -18,11 +18,10 @@ header {
 }
 
 pictures {
-	transform: rotateX(360deg);
-	transform: rotateY(360deg);
-	transform: rotateX(360deg);
+	transform: rotateX(360deg), rotateY(360deg), rotateZ(360deg);
 	
 }
+
 nav {
 	outline-style: groove;
 	outline-width: thick;
