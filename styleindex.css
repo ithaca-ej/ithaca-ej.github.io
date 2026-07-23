@@ -11,14 +11,9 @@ margin: auto;
 }
 
 header {
-	outline-style: groove;
-	outline-width: thick;
-	outline-color: black;
-	background-color: white;
 	width: fit-content;
 	text-align: center;
 	margin:	auto;
-	background-image: url("Pictures/paper.gif");
 	}
 
 nav {
