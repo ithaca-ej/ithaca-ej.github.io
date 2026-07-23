@@ -11,16 +11,17 @@ margin: auto;
 }
 
 header {
-	outline-style: groove;
-	outline-width: thick;
-	outline-color: black;
-	background-color: white;
 	width: fit-content;
 	text-align: center;
 	margin:	auto;
-	background-image: url("Pictures/paper.gif");
-	}
+	padding: 2em;
+}
 
+#pictures {
+	transform: rotateX(360deg);
+	transform: rotateY(360deg);
+	transform: rotateX(360deg);
+}
 nav {
 	outline-style: groove;
 	outline-width: thick;
@@ -45,6 +46,7 @@ article {
 	margin: auto;
 	line-height: 1.6;
 	width: 90%;
+	padding: 2em;
 	overflow: scroll;
 }
 
