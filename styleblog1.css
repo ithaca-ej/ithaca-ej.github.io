@@ -33,7 +33,7 @@ nav {
 	background-image: url("Pictures/paper.gif");
 }
 
-figure {
+figure, figcaption {
 display: inline-block;
 margin: auto;
 }

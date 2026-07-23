@@ -62,9 +62,21 @@ img {
 	background-image: url("Pictures/paper.gif");
 	margin: auto;
 	width: 90%;
-	
 }
 
+figure {
+display: inline-block;
+margin: auto;
+}
+
+figcaption {
+	outline-style: groove;
+	outline-color: white;
+	background-color: white;
+	background-image: url("Pictures/paper.gif");
+	margin: auto;
+	width: 90%;
+}
 
 .container b {
 	line-height: 1.8

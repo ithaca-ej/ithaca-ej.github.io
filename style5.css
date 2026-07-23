@@ -34,6 +34,11 @@ nav {
 	background-image: url("Pictures/paper.gif");
 }
 
+figure {
+display: inline-block;
+margin: auto;
+}
+
 .contact {
 	outline-style: groove;
 	outline-width: thick;
