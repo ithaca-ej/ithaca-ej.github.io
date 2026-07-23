@@ -10,12 +10,6 @@ color: black;
 margin: auto;
 }
 
-header {
-	width: fit-content;
-	text-align: center;
-	margin:	auto;
-	}
-
 nav {
 	outline-style: groove;
 	outline-width: thick;
@@ -37,7 +31,7 @@ article {
 	outline-color: black;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
-	margin: auto;
+	margin: 4vw;
 	line-height: 1.6;
 	width: 90%;
 	overflow: scroll;
