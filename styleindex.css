@@ -17,11 +17,6 @@ header {
 	padding: 2em;
 }
 
-pictures {
-	transform: rotateX(360deg), rotateY(360deg), rotateZ(360deg);
-	
-}
-
 nav {
 	outline-style: groove;
 	outline-width: thick;
