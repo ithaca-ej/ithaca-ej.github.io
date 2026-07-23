@@ -15,11 +15,11 @@ header {
 	outline-width: thick;
 	outline-color: black;
 	background-color: white;
-	width: 90%;;
+	width: fit-content;
 	text-align: center;
 	margin:	auto;
 	background-image: url("Pictures/paper.gif");
-}
+	}
 
 nav {
 	outline-style: groove;
