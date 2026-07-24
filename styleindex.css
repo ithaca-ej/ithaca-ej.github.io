@@ -21,10 +21,6 @@ nav {
 	background-image: url("Pictures/paper.gif");
 }
 
-h1 {
-	text-align: center;
-}
-
 h2 {
 	text-align: center;
 }
@@ -52,6 +48,7 @@ article {
 h1 {
 	font-weight: bold;
 	text-decoration: underline;
+	text-align: center;
 }
 
 footer {
