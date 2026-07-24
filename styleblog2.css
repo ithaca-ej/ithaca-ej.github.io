@@ -63,6 +63,12 @@ pre {
 	background-color: DodgerBlue;
 }
 
+h1 {
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+
 h2 {
 	text-align: center;
 }

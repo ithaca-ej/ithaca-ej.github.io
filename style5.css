@@ -34,6 +34,12 @@ nav {
 	background-image: url("Pictures/paper.gif");
 }
 
+h1 {
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+
 figure {
 display: inline-block;
 margin: auto;

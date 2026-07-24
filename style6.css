@@ -23,6 +23,12 @@ header {
 	background-image: url("Pictures/paper.gif");
 }
 
+h1 {
+	font-weight: bold;
+	text-decoration: underline;
+	text-align: center;
+}
+
 nav {
 	outline-style: groove;
 	outline-width: thick;
