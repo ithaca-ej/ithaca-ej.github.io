@@ -42,7 +42,7 @@ article {
 	outline-style: groove;
 	outline-width: thick;
 	outline-color: black;
-	margin: 1em;
+	margin: auto;
 	background-color: white;
 	background-image: url("Pictures/paper.gif");
 	width: 90%;
