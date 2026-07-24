@@ -5,20 +5,9 @@ line-height: 1.6;
 }
 
 body {
-background-image: url("Pictures/rotatingcamera.gif");
+background-image: url("Pictures/pattern234.gif");
 color: black;
 margin: auto;
-}
-
-header {
-	outline-style: groove;
-	outline-width: thick;
-	outline-color: black;
-	background-color: white;
-	width: 90%;;
-	text-align: center;
-	margin:	auto;
-	background-image: url("Pictures/paper.gif");
 }
 
 nav {
@@ -32,9 +21,14 @@ nav {
 	background-image: url("Pictures/paper.gif");
 }
 
+h1 {
+	text-align: center;
+}
+
 h2 {
 	text-align: center;
 }
+
 
 article {
 	outline-style: groove;
@@ -45,7 +39,6 @@ article {
 	margin: auto;
 	line-height: 1.6;
 	width: 90%;
-	overflow: scroll;
 }
 
 .guestbook {
