@@ -22,13 +22,11 @@ nav {
 }
 
 h2 {
+	font-weight: bold;
+	text-decoration: underline;
 	text-align: center;
 }
 
-img { padding: 30px;
-margin: auto;
-
-}
 
 article {
 	outline-style: groove;
@@ -50,7 +48,6 @@ article {
 
 h1 {
 	font-weight: bold;
-	text-decoration: underline;
 	text-align: center;
 }
 
