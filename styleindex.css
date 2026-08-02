@@ -22,8 +22,6 @@ nav {
 }
 
 h2 {
-	font-weight: bold;
-	text-decoration: underline;
 	text-align: center;
 }
 
@@ -48,6 +46,7 @@ article {
 
 h1 {
 	font-weight: bold;
+	text-decoration: underline;
 	text-align: center;
 }
 
