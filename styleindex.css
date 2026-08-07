@@ -1,64 +1,63 @@
 html {
-font-size: large;
-font-family: Helvetica, sans-serif;
-line-height: 1.6;
+  font-size: large;
+  font-family: Helvetica, sans-serif;
+  line-height: 1.6;
 }
 
 body {
-background-image: url("Pictures/pattern234.gif");
-color: black;
-margin: auto;
+  background-image: url("Pictures/pattern234.gif");
+  color: black;
+  margin: auto;
 }
 
 nav {
-	outline-style: groove;
-	outline-width: thick;
-	outline-color: black;
-	background-color: white;
-	text-align: center;
-	width: fit-content;
-	margin:	auto;
-	background-image: url("Pictures/paper.gif");
+  outline-style: groove;
+  outline-width: thick;
+  outline-color: black;
+  background-color: white;
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+  background-image: url("Pictures/paper.gif");
 }
 
 h2 {
-	text-align: center;
+  text-align: center;
 }
 
-
 article {
-	outline-style: groove;
-	outline-width: thick;
-	outline-color: black;
-	background-color: white;
-	background-image: url("Pictures/paper.gif");
-	margin: auto;
-	text-align: center;
-	width: 80%;
+  outline-style: groove;
+  outline-width: thick;
+  outline-color: black;
+  background-color: white;
+  background-image: url("Pictures/paper.gif");
+  margin: auto;
+  text-align: center;
+  width: 80%;
 }
 
 .guestbook {
-	outline: thick DodgerBlue groove;
-	width: fit-content;
-	margin:	auto;
-	background-color: DodgerBlue;
+  outline: thick DodgerBlue groove;
+  width: fit-content;
+  margin: auto;
+  background-color: DodgerBlue;
 }
 
 h1 {
-	font-weight: bold;
-	text-align: center;
+  font-weight: bold;
+  text-align: center;
 }
 
 footer {
-	text-align: center;
-	margin: 20px;
+  text-align: center;
+  margin: 20px;
 }
 
 footer p {
-	outline: thick yellow groove;
-	width: fit-content;
-	margin:	auto;
-	background-color: yellow;
+  outline: thick yellow groove;
+  width: fit-content;
+  margin: auto;
+  background-color: yellow;
 }
 
 /* unvisited link */
