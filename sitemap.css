@@ -1,39 +1,29 @@
 html {
-	font-size: large;
-	font-family: Helvetica, sans-serif;
-	line-height: 1.6;
-
+  font-size: large;
+  font-family: Helvetica, sans-serif;
+  line-height: 1.6;
 }
 
 body {
-	background-image: url("Pictures/world.gif");
-	
 }
 
 ul {
-
-margin: auto;
+  margin: auto;
 }
 
 .container {
-	outline-style: groove;
-	outline-width: thick;
-	outline-color: black;
-	background-color: white;
-	margin: auto;
-	line-height: 1.6;
-	width: fit-content;
+  margin: auto;
+  line-height: 1.6;
+  width: fit-content;
 }
 
 footer {
-	text-align: center;
+  text-align: center;
 }
 
 footer p {
-	outline: thick yellow groove;
-	width: fit-content;
-	margin:	auto;
-	background-color: yellow;
+  width: fit-content;
+  margin: auto;
 }
 
 /* unvisited link */
