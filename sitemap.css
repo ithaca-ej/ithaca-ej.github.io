@@ -17,15 +17,6 @@ ul {
   width: fit-content;
 }
 
-footer {
-  text-align: center;
-}
-
-footer p {
-  width: fit-content;
-  margin: auto;
-}
-
 /* unvisited link */
 a:link {
   color: blue;
