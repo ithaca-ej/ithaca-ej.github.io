@@ -1,0 +1,39 @@
+html {
+  font-size: large;
+  font-family:
+    Trebuchet MS,
+    sans-serif;
+  line-height: 1.6;
+}
+
+body {
+  color: black;
+}
+
+img {
+  width: 55%;
+}
+
+ul.no-bullets {
+  list-style-type: none; /* Remove bullets */
+}
+
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* mouse over link */
+a:hover {
+  color: blue;
+}
+
+/* selected link */
+a:active {
+  color: blue;
+}
