@@ -5,81 +5,81 @@ html {
 }
 
 body {
-background-image: url("Pictures/red027.jpg");
-color: black;
-
+  color: black;
 }
 
 h1 {
-	font-weight: bold;
-	text-align: center;
+  font-weight: bold;
+  text-align: center;
 }
 
 header {
-	outline-style: groove;
-	outline-width: thick;
-	outline-color: black;
-	background-color: white;
-	width: fit-content;
-	text-align: center;
-	margin:	auto;
-	background-image: url("Pictures/paper.gif");
-}
-
-nav {
-	outline-style: groove;
-	outline-width: thick;
-	outline-color: black;
-	background-color: white;
-	text-align: center;
-	width: fit-content;
-	margin:	auto;
-	background-image: url("Pictures/paper.gif");
-}
-
-.guestbook {
-	outline: thick DodgerBlue groove;
-	width: fit-content;
-	margin:	auto;
-	background-color: DodgerBlue;
-}
-
-figure {
-display: inline-block;
-margin: auto;
-}
-
-article {
-	outline-style: groove;
-	outline-width: thick;
-	outline-color: black;
-	margin: auto;
-	background-color: white;
-	background-image: url("Pictures/paper.gif");
-	width: 90%;
-}
-
-h2 {
-	text-align: center;
+  width: fit-content;
+  text-align: center;
+  margin: auto;
 }
 
 img {
-	max-width: 75%;
-	max-height: 75%;
-	margin: auto;
+  margin: 10px;
+  width: 25%;
+  height: auto;
+}
+
+.description {
+  margin: auto;
+  width: 90%;
+  text-align: center;
+}
+
+div {
+  text-align: center;
+  margin: auto;
+}
+
+.container {
+  margin: auto;
+  width: 90%;
+}
+
+nav {
+  text-align: center;
+  width: fit-content;
+  margin: auto;
+}
+
+.guestbook {
+  width: fit-content;
+  margin: auto;
+}
+
+figure {
+  display: inline-block;
+  margin: auto;
+}
+
+article {
+  margin: auto;
+  width: 90%;
+}
+
+h2 {
+  text-align: center;
+}
+
+img {
+  max-width: 75%;
+  max-height: 75%;
+  margin: auto;
 }
 
 footer {
-	text-align: center;
+  text-align: center;
 }
 
 footer p {
-	outline: thick yellow groove;
-	width: fit-content;
-	margin:	auto;
-	background-color: yellow;
+  width: fit-content;
+  margin: auto;
 }
-
 
 /* unvisited link */
 a:link {
