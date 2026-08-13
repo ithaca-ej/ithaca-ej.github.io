@@ -5,6 +5,19 @@ html {
   line-height: 1.6;
 }
 
+ :root {
+  color-scheme: light dark;
+  --light-bg: snow;
+  --light-color: black;
+  --dark-bg: black;
+  --dark-color: snow;
+}
+
+* {
+  background-color: light-dark(var(--light-bg), var(--dark-bg));
+  color: light-dark(var(--light-color), var(--dark-color));
+}
+
 body {
   color: black;
 }
