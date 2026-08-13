@@ -10,6 +10,10 @@ body {
   color: black;
 }
 
+img {
+  width: 70%;
+}
+
 /* unvisited link */
 a:link {
   color: blue;
