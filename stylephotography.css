@@ -1,5 +1,4 @@
 html {
-  font-size: large;
   font-family:
     Trebuchet MS,
     sans-serif;
@@ -11,11 +10,8 @@ body {
 }
 
 img {
-  width: 55%;
-}
-
-ul.no-bullets {
-  list-style-type: none; /* Remove bullets */
+  width: 50%;
+  list-style-type: none;
 }
 
 /* unvisited link */
