@@ -5,7 +5,7 @@ html {
   line-height: 1.6;
 }
 
- :root {
+:root {
   color-scheme: light dark;
   --light-bg: snow;
   --light-color: black;
@@ -17,13 +17,13 @@ html {
   background-color: light-dark(var(--light-bg), var(--dark-bg));
   color: light-dark(var(--light-color), var(--dark-color));
 }
-
+
 body {
   color: black;
 }
 
 img {
-  width: 55%;
+  width: 25%;
 }
 
 /* unvisited link */
