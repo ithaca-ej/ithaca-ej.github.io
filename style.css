@@ -6,7 +6,7 @@ html {
 }
 
 body {
-  background-image: Pictures/("pattern234.gif");
+  background-image: url("Pictures/pattern234.gif")
 }
 
 /* unvisited link */
