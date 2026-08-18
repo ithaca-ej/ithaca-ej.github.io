@@ -5,12 +5,8 @@ html {
   line-height: 1.6;
 }
 
-* {
-  background-image: "Pictures/pattern234.gif"
-}
-
 body {
-  color: black;
+  background-image: Pictures/("pattern234.gif");
 }
 
 /* unvisited link */
