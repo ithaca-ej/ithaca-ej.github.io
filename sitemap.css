@@ -8,16 +8,6 @@ body {
   color: #ffffff;
 }
 
-ul {
-  margin: auto;
-}
-
-.container {
-  margin: auto;
-  line-height: 1.6;
-  width: fit-content;
-}
-
 /* unvisited link */
 a:link {
   color: blue;
