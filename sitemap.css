@@ -4,8 +4,8 @@ html {
 }
 
 body {
- background-color: #0e1419;
- color: #ffffff;
+  background-color: black;
+  color: #ffffff;
 }
 
 ul {
@@ -20,20 +20,20 @@ ul {
 
 /* unvisited link */
 a:link {
-  color: #468EB0;
+  color: blue;
 }
 
 /* visited link */
 a:visited {
-  color: #468EB0;
+  color: blue;
 }
 
 /* mouse over link */
 a:hover {
-  color:  #468EB0;
+  color: blue;
 }
 
 /* selected link */
 a:active {
-  color:  #468EB0;
+  color: blue;
 }
