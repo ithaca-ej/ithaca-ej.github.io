@@ -4,18 +4,8 @@ html {
 }
 
 body {
- background-color: #0e1419;
- color: #ffffff;
-}
-
-ul {
-  margin: auto;
-}
-
-.container {
-  margin: auto;
-  line-height: 1.6;
-  width: fit-content;
+  background-color: black;
+  color: #ffffff;
 }
 
 /* unvisited link */
